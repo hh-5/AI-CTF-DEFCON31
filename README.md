@@ -8,6 +8,8 @@ https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31/discuss
 In the folders above you can find solutions to all non-prompt problems (except for the DBs due to size restrictions).
 I included the main notebook which, although very messy, is a good indicator of the amount of exploration/experimentation required to solve the problems. 
 
+All work/training was done either on Collab or locally on a Ubuntu with a mid-tier CPU.
+
 Inversion template used:
 
 https://colab.research.google.com/drive/1yl8qA2EJbT0-j186RSJEs74aMpcZ2_F0#scrollTo=vk-yR-pm1b2R
