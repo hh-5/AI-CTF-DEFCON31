@@ -1,4 +1,4 @@
-#AI Village Capture the Flag @ DEFCON31 Solutions
+# AI Village Capture the Flag @ DEFCON31 Solutions
 
 My writeup:
 
